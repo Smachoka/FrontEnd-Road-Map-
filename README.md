@@ -1,8 +1,8 @@
 # FrontEnd-Road-Map-
 
- Phase 1: Introduction to HTML & CSS (Weeks 1-4)
+# Phase 1: Introduction to HTML & CSS (Weeks 1-4)
 
-Week 1: Basics of HTML
+## Week 1: Basics of HTML
 - Topics: HTML structure, elements, attributes, headings, paragraphs, links, lists.
 - Resources:
 - Text-based: [MDN Web Docs: HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
@@ -10,7 +10,7 @@ Week 1: Basics of HTML
 - Videos: [freeCodeCamp HTML Full Course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 
 
-Week 2: Advanced HTML
+# Week 2: Advanced HTML
 - Topics: Forms, tables, semantic HTML, multimedia elements.
 - Resources:
 - Text-based: [MDN Web Docs: HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/Forms)
@@ -18,7 +18,7 @@ Week 2: Advanced HTML
 - Videos: [freeCodeCamp HTML Full Course (continued)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 
 
-Week 3: Basics of CSS
+# Week 3: Basics of CSS
 - Topics: Syntax, selectors, colors, text, box model.
 - Resources:
 - Text-based: [MDN Web Docs: CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
