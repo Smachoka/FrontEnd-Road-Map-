@@ -26,7 +26,7 @@
 - Videos: [freeCodeCamp CSS Full Course](https://www.youtube.com/watch?v=ieTHC78giGQ)
 
 
-Week 4: Advanced CSS
+# Week 4: Advanced CSS
 - Topics: Flexbox, grid, responsive design, transitions, animations.
 - Resources:
 - Text-based: [MDN Web Docs: CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
@@ -34,11 +34,11 @@ Week 4: Advanced CSS
 - Videos: [Traversy Media CSS Grid](https://www.youtube.com/watch?v=EFafSYg-PkI)
 
 
-Project Idea: Build a personal portfolio website using HTML and CSS.
+# Project Idea: Build a personal portfolio website using HTML and CSS.
 
- Phase 2: JavaScript Basics (Weeks 5-8)
+# Phase 2: JavaScript Basics (Weeks 5-8)
 
-Week 5: Introduction to JavaScript
+# Week 5: Introduction to JavaScript
 - Topics: Syntax, variables, data types, operators.
 - Resources:
 - Text-based: [MDN Web Docs: JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
@@ -46,7 +46,7 @@ Week 5: Introduction to JavaScript
 - Videos: [Programming with Mosh JavaScript](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
 
-Week 6: Control Structures and Functions
+# Week 6: Control Structures and Functions
 - Topics: Conditionals, loops, functions, scope.
 - Resources:
 - Text-based: [Eloquent JavaScript (Chapters 2-3)](https://eloquentjavascript.net/)
